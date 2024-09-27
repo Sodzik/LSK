@@ -35,9 +35,9 @@ ___
 ## Porty aplikacji
 - **20** -         TCP        FTP (dane)
 - **21** -         TCP        FTP (sterowanie)
-- **22** -         TCP        SSH
+- **22** -         TCP    *tabspace*    SSH
 - **23** -         TCP        Telnet
-- **25** -         TCP  <br></br>      SMTP
+- **25** -         TCP        SMTP
 - **53** -         TCP/UDP    DNS
 - **67** -         UDP        DHCP (serwer)
 - **68** -         UDP        DHCP (klient)
