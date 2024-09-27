@@ -2,8 +2,8 @@
 
 ## Rodzaje sieci
 
-- sieć ''' PAN ''' (Personal Area Network),
-- sieć '''LAN''' (Local Area Network)
+- sieć ***PAN*** (Personal Area Network),
+- sieć *LAN* (Local Area Network)
 - sieć '''WLAN''' (Wireless Local Area Network)
 - sieć '''CAN''' (Campus Area Network)
 - sieć '''MAN''' (Metropolitan Area Network)
