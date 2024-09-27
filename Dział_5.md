@@ -32,12 +32,12 @@ ___
 - ***TCP*** - Korzysta z aplikacji **FTP, HTTP (www), SMTP (e-mail) oraz DNS**. Niezawodny, potwierdza dane, wysyła ponownie stracone dane, dostarcza dane po kolei
 - ***UDP*** - Korzysta z aplikacji **DNS oraz TFTP**. Szybki, mały narzut, nie wysyła potwierdzenia, dostarcza dane w kolejności w jakiej je otrzymuje
 ___
-## Porty apliakcji
+## Porty aplikacji
 - **20** -         TCP        FTP (dane)
 - **21** -         TCP        FTP (sterowanie)
 - **22** -         TCP        SSH
 - **23** -         TCP        Telnet
-- **25** -         TCP        SMTP
+- **25** -         TCP  <br></br>      SMTP
 - **53** -         TCP/UDP    DNS
 - **67** -         UDP        DHCP (serwer)
 - **68** -         UDP        DHCP (klient)
