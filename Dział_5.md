@@ -86,3 +86,19 @@ ___
 - **PoE oraz EoP** - metody wykorzystywania zasilania do połączenia z internetem oraz na odwrót
 - **Chmurowy kontroler sieci** - umożliwia administratorom sieci na zarządzanie urządzeniami sieciowymi
 ___
+## Narzędzia
+- **Kleszcze do przecinania kabli**
+- **Szczypce do zdejmowania izolacji**
+- **Zaciskarka**
+- **Wciskarka**
+- **Multimetr** - mierzy napięcie, prąd elektyczny itp.
+- **Tester**
+- **Pętla zwrotna** - testuje podstawową funkcjonalność portów komputera
+- **Generator tonów i sonda** - testuje drut w kablu za pomocą tonów
+- **Analizator Wi-Fi** - służy do audytu i naprawiania awarii w sieci bezprzewodowej
+___
+## Kable
+- **Koncentracyjne** - jest z miedzi lub z aluminium. Używany przez stacje telewizyjne i systemy łączności satelitarnej. Ma typ BNC, typ N oraz typ F
+- **Ethernet** (RJ45) -
+  - T568A - Zielono-biały        Zielony        Pomarańczowo-biały      Niebieski      Niebiesko-biały      Pomarańczowy      Brązowo-biały        Brązowy
+  - T568B - Pomarańczowo-biały   Pomarańczowy   Zielono-biały           Niebieski      Niebiesko-biały      Zielony           Brązowo-biały        Brązowy
