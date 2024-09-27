@@ -62,5 +62,7 @@ ___
 - **802.11ac**      1.4Gb/s   35m     5GHz        802.11a/n
 ___
 ## Inne technologie
-- **Bluetooth** - 
+- **Bluetooth** - technologia stosowana w PAN do podłączania urządzeń takich jak głośnik, słuchawki lub mikrofon
 - **NFC** - zaprojektowany do zblizeniowego realizowania tranzakcji
+- **Zigbee** - Charakteryzuje się niskim poborem energii oraz zasięgiem aż do 100m. Wykorzystuje się też w kontroli inteligentnego domu.
+- **Z-Wave** - Wykorzystuje się do kontrolowania SMART HOME 
