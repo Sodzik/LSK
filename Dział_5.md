@@ -102,3 +102,4 @@ ___
 - **Ethernet** (RJ45) -
   - T568A - Zielono-biały        Zielony        Pomarańczowo-biały      Niebieski      Niebiesko-biały      Pomarańczowy      Brązowo-biały        Brązowy
   - T568B - Pomarańczowo-biały   Pomarańczowy   Zielono-biały           Niebieski      Niebiesko-biały      Zielony           Brązowo-biały        Brązowy
+- **Światłowód** - składa się ze szkła i wykorzystuję się do łączenia z internetem i przesyłania wiadomości
