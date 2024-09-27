@@ -41,9 +41,9 @@ ___
 - **53** -         TCP/UDP    DNS
 - **67** -         UDP        DHCP (serwer)
 - **68** -         UDP        DHCP (klient)
-- **69** -         UDP   ----     TFTP
-- **80** -         TCP        HTTP (www)
-- **110** -        TCP        POP3
+- **69** -         UDP   ___     TFTP
+- **80** -         TCP     ---   HTTP (www)
+- **110** -        TCP    __    POP3
 - **137-139** -    TCP/UDP    NetBIOS/NetBT
 - **143** -        TCP        IMAP
 - **161/162** -    UDP        SNMP
