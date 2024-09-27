@@ -65,4 +65,24 @@ ___
 - **Bluetooth** - technologia stosowana w PAN do podłączania urządzeń takich jak głośnik, słuchawki lub mikrofon
 - **NFC** - zaprojektowany do zblizeniowego realizowania tranzakcji
 - **Zigbee** - Charakteryzuje się niskim poborem energii oraz zasięgiem aż do 100m. Wykorzystuje się też w kontroli inteligentnego domu.
-- **Z-Wave** - Wykorzystuje się do kontrolowania SMART HOME 
+- **Z-Wave** - Wykorzystuje się do kontrolowania SMART HOME
+___
+## Urządzenia sieciowe
+- **Wtórnik** (repeater) - regeneruje słaby sygnał wysyłany do niego
+- **Koncentrator** (hub) - służy do komunikacji pomiędzy sprzętem np. komputer, serwer, drukarka itp.
+- **Most** - dzieli sieć LAN na segmenty i filtruje pomiędzy nimi komunikację
+- **Przełącznik** - komunikuje sprzęt ze sobą za pomoca adresów MAC
+- **Router** - zbiera sygnał internetowy i łączy się z urządzeniami takimi jak komputer lub przełącznikami
+___
+## Zabezpieczenia
+- **Zapora wewnętrzna**
+- **IDS** - system do wykrywania włamań, który monitoruje ruch w sieci
+- **IPS** - działa jak IDS, ale każdy ruch musi przejść przez niego
+- **UTM** - posiada wszystkie funkcje IDS i IPS
+- **Serwer zarządzania punktami końcowymi** - odpowiada za monitorowanie wszystkich urządzeń końcowych w sieci
+___
+## Inne urządzenia sieciowe
+- **Panel krosowy** - stosowany jako miejsce zbierania kabli
+- **PoE oraz EoP** - metody wykorzystywania zasilania do połączenia z internetem oraz na odwrót
+- **Chmurowy kontroler sieci** - umożliwia administratorom sieci na zarządzanie urządzeniami sieciowymi
+___
