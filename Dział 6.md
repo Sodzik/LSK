@@ -47,3 +47,23 @@ ___
 - **Przekierowanie portów** - zapory sprzętowe mogą służyć do blokowania portów TCP i UDP
 - **Filtrowanie adresów MAC** - określa dokładnie które adresy MAC mają pozwolenie na wysyłanie danych w Twojej sieci lub nie mogą wysyłać
 - **Biała i czarna lista** - decyduje jakie adresy IP są dozwolone lub odmawiane w sieci
+___
+## Internet rzeczy
+Jest to sieć połączonych urządzeń, która komunikuje się i wymieniają dane
+___
+## Proces rozwiązywania problemów
+![image](https://github.com/user-attachments/assets/eb50a122-450c-4a7c-bd12-ef361d4ae7a5)
+![image](https://github.com/user-attachments/assets/7a783dcc-30be-4c87-b390-b2d66605c922)
+![image](https://github.com/user-attachments/assets/e20f5538-7488-46c0-8038-cca9c8dac6fa)
+![image](https://github.com/user-attachments/assets/6517b9ae-60fe-4056-a8b5-687a05cfe3ea)
+![image](https://github.com/user-attachments/assets/c1aabc6d-336c-4ddd-b28b-a7f30cbc3c71)
+![image](https://github.com/user-attachments/assets/cafb52e1-195b-4e72-890c-1bfe00ea1387)
+___
+## Typowe problemy i rozwiązania dotyczące sieci
+![image](https://github.com/user-attachments/assets/3ea9e9f2-22ab-462d-ad83-3842691335e7)
+![image](https://github.com/user-attachments/assets/30f8a981-fb2f-43ab-8d17-288ee3ceb5bd)
+![image](https://github.com/user-attachments/assets/6890263a-6628-4f4e-a057-64263b34e7e0)
+![image](https://github.com/user-attachments/assets/a43b488f-d019-4bcb-ab36-15fa3c299a52)
+![image](https://github.com/user-attachments/assets/d40513dc-3a90-40be-b4fa-451bf9b108a4)
+![image](https://github.com/user-attachments/assets/24b54617-b595-452f-9b1a-1ec5b6ee0f35)
+![image](https://github.com/user-attachments/assets/39a84b37-c3ad-4bf7-9ab6-601c4b254ad0)
