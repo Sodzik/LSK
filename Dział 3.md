@@ -67,4 +67,38 @@ ___
 - **Port gier** - 15-pinowy port do wejścia joysticka
 - **PS/2** - dwa 6-pinowe porty służące do podłączenia myszy (zielony) oraz klawiatury (fioletowy)
 - **Porty audio** - porty zawierające wejście liniowe (line in) dla np. systemu stereo oraz wyjście liniowe (line out) dla np. głośników i słuchawek
-- 
+___
+## Złącza USB
+- **USB typu A** - najzwyklejsze wejście USB, znajduje się w każdym komputerze
+- **Mini-USB** - wycofany i zastąpiony złączem *micro-USB*
+- **Micro-USB** - to złącze znajduje się w starszych tabletach i smartfonach
+- **USB typu B** - powszechnie używane jako podłączenie drukarek i zewnętrznych dysków twardych
+- **USB typu C** - najnowszy interfejs USB używany od podłączenia wszystkiego od telefonu po słuchawki do kostki do ładowania
+- **Lightning** - złącze używane przez urządzenia firmy Apple
+___
+## Inne złącza
+- **Ethernet** - kabel ze złączem RJ-45
+- **RJ-11** - używany przez starsze sieci telefoniczne
+- **Skrętka** - są 2 rodzaje kabli skrętki STP i częściej stosowany UTP
+- **Kabel koncentryczny** - używany do przesyłania sygnałów telewizyjnych, radiowych i internetowych. Znajduje się w kablu RG-6, TG-69 oraz BNC
+- **RG-6** - służy do tego samego co kabel koncentryczny
+- **RG-59** - służy do analogowych aplikacji wideo oraz do CCTV
+- **NBC** - dzięki złączce pozwala kablom koncentrycznym na transmisje analogową lub cyfrową sygnałów audio/wideo
+___
+## Charakterystyka monitora
+- **Rozmiar ekranu** - rozmiar liczy się używając cali do pomiaru przekątnej
+- **Rozdzielczość** - SD, HD, FULL HD, QUAD HD (2K), Ultra HD (4K)
+- **Łączność** - VGA, DVI, HDMI, DisplayPort
+- **Częstotliwość odświeżania** - mierzona w hercah (Hz)
+___
+## Typy komponentów
+- **RAM** - Minimum, Standardowa, Maksimum
+- **CPU** - Podstawowy, Szybki, Wielordzeniowy
+- **Wideo** - Podstawowa, Zintegrowana, Wydajna, Wysokiej klasy
+- **Pamięć masowa** - Podstawowe, SSD, HDD
+- **Karta dźwiękowa** - Zintegrowana, Podstawowa, Specjalistyczna
+- **Monitor** - Podstawowa, Kilka, Panoramiczna
+- **Chłodzenie** - Pasywne, Aktywne, Wysokiej klasy
+___
+## Gruby i cienki klient
+![image](https://github.com/user-attachments/assets/a302d571-8259-43ee-80da-22ea526b4a84)
