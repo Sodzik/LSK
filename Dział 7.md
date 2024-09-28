@@ -110,7 +110,7 @@ ___
 ![image](https://github.com/user-attachments/assets/f685a184-6cbe-43ef-b6ba-8b6a7dca0afa)
 ![image](https://github.com/user-attachments/assets/07e45fe1-b7e3-4b07-9bb0-9fe4547ac5f8)
 ___
-##Typowe problemy i rozwiązania
+## Typowe problemy i rozwiązania
 
 ![image](https://github.com/user-attachments/assets/c84fa8ae-37b9-433f-b023-096af4313a29)
 ![image](https://github.com/user-attachments/assets/022b44dc-0139-4324-aff6-d3cbd97456b9)
