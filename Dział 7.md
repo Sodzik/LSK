@@ -1,4 +1,4 @@
-# Dział 7
+# Laptopy i urzadzenia mobilne
 ___
 ## Urządzenia mobilne itp.
 SmartFon, Laptop, Tablet, Smartwatch, Czytnik e-booków, Monitor aktywności
