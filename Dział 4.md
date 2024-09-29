@@ -1,4 +1,4 @@
-# Dział 4
+# Konserwacja i rozwiązywanie problemów
 ___
 ## Konserwacja
 - **Kurz**
