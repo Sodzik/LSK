@@ -1,4 +1,4 @@
-# Dział 2
+# Montaż komputera PC
 ___
 ## Wybór obudowy (na co trzeba patrzeć)
 - **Model płyty głównej**
