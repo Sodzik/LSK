@@ -1,4 +1,4 @@
-# Dział 1
+# Wprowadzenie do sprzętu komputerowego
 ___
 ## Ochrona przed wyładowaniem elektrostatycznym (ESD)
 - **Trzymaj komponenty w torebkach antystatycznych**
