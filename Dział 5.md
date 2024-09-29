@@ -1,4 +1,4 @@
-# Dział 5
+# Koncepcje sieciowe
 
 ## Rodzaje sieci
 - sieć ***PAN*** (Personal Area Network),
