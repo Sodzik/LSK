@@ -1,4 +1,4 @@
-# Dział 3
+# Sprzęt komputerowy - zaawansowane
 ___
 ## POST
 ![image](https://github.com/user-attachments/assets/7e390b54-f5ec-4b79-9963-ffbce8bcfb94)
