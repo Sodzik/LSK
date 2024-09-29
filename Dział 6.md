@@ -1,4 +1,4 @@
-# Dział 6
+# Zastosowanie sieci
 ___
 ## MAC i IP i inne adresy
 - **IP** - identyfikuje urządzenie w sieci
