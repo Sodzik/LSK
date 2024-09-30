@@ -31,8 +31,7 @@ ___
 ___
 ## Płyta główna
 - **CPU** - mózg komputera
-- **RAM** - tymczasowa lokalizacja przechowywania danych i a
-- plikacji
+- **RAM** - tymczasowa lokalizacja przechowywania danych i aplikacji
 - **Gniazda rozszerzeń** - zapewnia miejsce na podłączenie dodatkowych komponentów
 - **Chipset** - układ scalony odpowiedzialny za przepływ informacji pomiędzy procesorem centralnym, nośnikami danych i peryferiami
 - **Chip BIOS i UEFI** - pomaga w uruchamianiu komputera i zarządzaniu przepływem danych między komponentami i peryferiami
