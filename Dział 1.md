@@ -16,10 +16,10 @@ ___
 - **AT Extended (ATX)** - zaktualizowana wersja AT, też uważana za przestarzały
 - **ATX12V** - najczęstszy typ zasilacza, która ma 2 złącza płyty głównej co umożliwia dodatkową moc dla CPU
 - **EPS12V** - przeznaczony dla serwerów sieciowych, ale obecnie używany w modelach stacjonarnych wyższej klasy <br></br>
-| Typ zasilacza | AT | ATX | ATX12V | EPS12V | <br></br>
-| +3.3V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;-&nbsp;  | &nbsp;&nbsp;+ &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;     | &nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;      | <br></br>
-| +5V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;+&nbsp;  | &nbsp;&nbsp;+ &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;     | &nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;    | <br></br>
-| +12V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;+&nbsp;  | &nbsp;&nbsp;+ &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;+ &nbsp;&nbsp;&nbsp;&nbsp;     | &nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;  | <br></br>
+**AT** - +5V, +12V <br></br>
+**ATX** - +3.3V, +5V, +12V <br></br>
+**ATX12V** - +3.3V, +5V, +12V <br></br>
+**EPS12V** - +3.3V, +5V, +12V
 ___
 ## Złącza
 - **20/24 pinowe złącze szczelinowe** - laczy się z płytą główną
