@@ -89,6 +89,6 @@ ___
 - **Czytnik kart inteligentnych** - używany do uwierzytelnienia użytkownika
 - **NFC (Near Field Communication)** - odczytuje i zapisuje na chipie NFC informacje do odejmowania pieniędzy z konta
 ___
-## Urządznie wyjścia
+## Urządzenie wyjścia
 - **Czytnik pasków magnetycznych** - odczytuje zakodowane magnetycznie na odwrocie kart
 - **Skaner kodów kreskowych** - odczytuje informacje zawarte w kodach kreskowych
