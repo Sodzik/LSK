@@ -81,4 +81,70 @@ ___
   - **Spam** - wysyła niechciane wiadomości na pocztę
   - **Phishing profilowy, spear phishing** - atak ukierunkowany na konkretne osoby/organizacje
   - **Śledzenie, piggybacking** - atak mający na celu uzyskania dostępu do zabezpieczonego obszaru
-    
+___
+## Procedury bezpieczeństwa
+### Polityka zabezpieczeń
+Zestaw celów bezpieczeństwa zapewniających bezpieczeństwo sieci, danych i komputerów w organizacji
+- **Kategorie zasad bezpieczeństwa**
+  - **Polityka identyfikacji i uwierzytelniania** - określa upoważnione osoby, które mogą mieć dostęp do zasobów sieciowych i określa procedury weryfikacji
+  - **Polityka haseł** - zapewnia spełnianie minimalnych wymagań przez hasła oraz regularne zmiany haseł
+  - **Polityka dopuszczalnego użycia** - identyfikuje zasoby i sposoby użycia sieci akceptowane przez organizacje, może wskazywać konsekwencje naruszenia tej zasady
+  - **Polityka zdalnego dostępu** - wskazuje jak zdalni użytkownicy mogą uzyskać dostęp do sieci i co jest dostepne przez zdalne połączenie
+  - **Zasady konserwacji sieci** - określa SO urządzeń sieciowych i procedury aktualizacji zaplikacji użytkownika końcowego
+  - **Zasady obsługi incydentów** - opisuje sposób obsługi incydentów bezpieczeństwa
+___
+### Zabezpieczenia fizyczne
+- **Polegają na zabezpieczeniu:**
+  - Dostępu do terenu organizacji
+  - Dostępu do obszarów zastrzeżonych
+  - Infrastruktury komputerowej i sieciowej
+- **Rodzaje**
+  - **Zamek konwencjonalny** - odblokowywany przez klucz
+  - **Zamek zasuwkowy** odblokowywany kluczem, oddzielony od mechanizmu klamki
+  - **Zamek elektroniczny** - odblokowywany PINem lub kodem
+  - **Tokeny** - odblokowywany przez przesuwanie bezpiecznej karty lub za pomocą czytnika
+  - **Biometryczna** - odblokowywany za pomocą skanera biometrycznego np. skaner siatkówki, odcisku lub głosu
+  - **Blokada wieloczynnikowa** - blokadqa wykorzystująca kilka mechanizmów, np. odcisk kciuka oraz kod PIN
+___
+### Ochrona danych
+- **Skutki**
+  - Uszkodzenie marki/Utrata reputacji
+  - Utrata przewagi konkurencyjnej
+  - Znaczne koszty i wysiłki, aby odzyskać dane
+  - Działania prawne skutkujące grzywnami i sankcjami
+  - Utrata przychodów
+  - Utrata klientów
+- **Uwagi tworzenia kopii zapasowych**
+  - **Częstotliwość**
+     - Wykonuj regularnie kopie zapasowe (comiesięczne lub cotygodniowe z częściowymi kopiami zapasowymi)
+  - **Bezpieczeństwo**
+    - Kopie powinny byc transportowane do zatwierdzonego miejsca przechowywania poza siedzibą
+  - **Walidacja**
+    - Ochrona kopii za pomocą silnych haseł
+    - Wymaganie hasła przy przywróceniu danych
+  - **Pamięć masowa**
+    - Sprawdzaj poprawność kopii, aby zapewnić integralność danych
+- **Uprawnienia do plików i folderów**
+![image](https://github.com/user-attachments/assets/f9a8c950-bc75-42d3-830e-1c2eb215162d)
+- **Szyfrowanie dysków twardych**
+  - **Krok 1**
+    - **Włącz moduł TPM**
+    ![image](https://github.com/user-attachments/assets/20de52de-31a2-4280-90ab-d8708e4f001c)
+  - **Krok 2**
+    - **Włącz funkcje BitLocker**
+    ![image](https://github.com/user-attachments/assets/826a3cb9-26a1-494e-ad1a-532c41d0c2a5)
+___
+### Niszczenie danych
+- **Z dysku twardego**
+![image](https://github.com/user-attachments/assets/d6f4255d-edcf-43cb-b771-fcf794351805)
+- **Recykling i niszczenie dysków twardych**
+  - **Recykling**
+    - **Kroki**
+      - Wyczyszczenie dysku
+      - Formatowanie dysku
+      ![image](https://github.com/user-attachments/assets/d2728bda-0297-4ac1-a20a-843f26561741)
+  - **Niszczenie**
+    - gwarantuje nie odzyskanie danych z dysku twardego
+    - **Sposoby**
+      - Niszczarka
+      - Uszkodzenie napędu młotkiem
