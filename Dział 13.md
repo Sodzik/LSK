@@ -148,3 +148,59 @@ ___
     - **Sposoby**
       - Niszczarka
       - Uszkodzenie napędu młotkiem
+- **Narzędzia**
+  - **Różdżka do rozmagnesowania** - emituje zmienne pole magnetyczne, używane do rozmagnesowania przedmiotów
+  - **Urządzenie do rozmagnesowania elektromagnetycznego** - wykorzystuje zmienne pole elektromagnetyczne do rozmagnesowania metalowych obiektów
+___
+### Zabezpieczanie stacji roboczych systemu Windows
+- **Zabezpieczanie stacji roboczej**
+  - **Komputer i BIOS**
+    - **BIOS** - zapobiega uruchomieniu SO i zmianie ustawień BIOS
+    - **Logowanie** - zapobiega nieautoryzowanemu dostępowi do komputera
+    - **Sieć** - uniemożliwia dostęp do zasobów sieciowych nieupoważnionym
+- **SO Windows**
+  - **Windows Hello** - funkcja rozpoznywania twarzy lub odcisku palca
+  - **PIN**
+  - **Dynamiczna blokada** - blokada sięga poza zasięg komputera po sparowaniu urządzenia
+  - **Silne hasło**
+    - **Minimalna długość** - co najmniej 8 znaków
+    - **Złożoność** - musi zawierać litery, cyfry i symbole, unikaj haseł opartych na dostępnych informacjach np. dane osobiste
+    - **Różnorodność** - używaj różnych haseł do różnych witryn
+    - **Wygaśnięcie** - regularnie zmieniaj hasło
+___
+### Zasady zabezpieczeń lokalnych systemu Windows
+- **Zasady**
+  - **W7 i Vista** - *Start> Panel sterowania > Narzędzia administracyjne > Zasady zabezpieczeń lokalnych*
+  - **W8, W8.1, W10** - *Wyszukaj > secpol.msc* następnie kliknij *secpol*
+  - **Udostępnianie** - do replikacji listy zasad zabezpieczeń należy użyc funkcji *Akcja > Eksportuj listę*
+___
+### Zarządzanie użytkownikami i grupami
+- **Zarządzanie kontami i ich obsługa**
+  - **Śledź czasy logowania** - umożliwianie logowania tylko w wybranych porach
+  - **Limit czasu bezczynności i blokada ekranu** - skonfiguruj aby wylogowywało użytkownika po danym czasie
+  - **Narzędzia konta użytkownika
+![image](https://github.com/user-attachments/assets/6f243b71-cabd-4256-8daf-fbba12a163b0)
+  - **Menedżer grup** - *Panelu sterowania > Narzędzia administracyjne > Zarządzanie komputerem > Użytkownicy i grupy lokalne*
+___
+### Zapora systemu Windows
+- **Rodzaje**
+  - **Zapora oparta na hoście** - korzystanie z oprogramowania takiego jak Windows Defender
+  - **Małe biuro domowe (SOHO)** - rozwiązanie sieciowa za pomocą routera bezprzewodowego
+  - **Mała i średnia organizacja** - rozwiązanie przy użyciu dedykowanego urządzenia
+- **Ustawienia zapory**
+  - **Translacja adresów portu (NAT)** – pozwala na przekazywanie publicznego adresu IP routera do prywatnych hostów, umożliwiając im komunikację z Internetem. Ruch powrotny jest tłumaczony na prywatne adresy IP.
+  - **Kontrola rodzicielska* – filtrowanie treści internetowych na podstawie niedozwolonych słów kluczowych według oceny stron.
+  - **Przekierowanie portów** – nazywane też NATem docelowym (DNAT). Ruch internetowy jest kierowany do określonego hosta i portu na routerze.
+  - **Adresy URL białej/czarnej listy** – czarna lista blokuje niebezpieczne witryny, biała pozwala na identyfikację dozwolonych.
+  - **Wyłącz porty** – selektywne wyłączanie dostępu do określonych portów TCP/UDP.
+  - **Filtrowanie adresów MAC** – pozwala na dodanie znanych adresów MAC do listy i zezwolenie na połączenia tylko z białej listy.
+___
+### Przeglądarka internetowa
+- **Zabezpieczenia**
+  - **Tryb prywatny**
+  - **Blokada Pop-up** - blkuje wyskakujące okna przeglądarki
+  - **Filtr SmartScreen** - wykrywa witryny wyłudzające informacje
+  - **Filtrowanie ActiveX** - umożliwia uruchamianie stron bez uruchamiania formatów ActiveX
+___
+### Utrzymanie bezpieczeństwa
+  
