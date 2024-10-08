@@ -1,4 +1,4 @@
-#Instalacja systemu Windows
+# Instalacja systemu Windows
 ___
 ## Nowoczesne SO
 ### SO
