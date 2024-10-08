@@ -35,7 +35,7 @@ ___
 ## Wybór napędu optycznego
 - **Rodzaj złącza**
 - **Możliwość odczytu i zapisu**
-- **Typ nośnika** - CD, Blue-ray, DVD
+- **Typ nośnika** - CD, Blue-ray, DVD <br></br>
 ![image](https://github.com/user-attachments/assets/65c3a126-909a-419e-9f2f-83191d8590f5)
 ___
 ## Wybór kart rozszerzeń
