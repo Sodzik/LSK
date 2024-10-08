@@ -56,10 +56,10 @@ ___
   - **Typ RAID**
 - **Karta I/O**
   - **Porty I/O** - ilość i typ
-  - **Zapotrzebowanie dodatkowego zasilania
+  - **Zapotrzebowanie dodatkowego zasilania**
 - **Karta sieciowa**
   - **Szybkość**
-  - **Połączenie przewodowe lub bezprzewodowe
+  - **Połączenie przewodowe lub bezprzewodowe**
 - **Karta wideo**
   - **Porty I/O**
   - **Rozdzielczość i FPS**
