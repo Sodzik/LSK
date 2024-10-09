@@ -24,7 +24,7 @@ ___
 - **Ethernet**
 - **Bezprzewodowo**
 ___
-##Rodzaje i części drukarek
+## Rodzaje i części drukarek
 ### Atramentowa
 - **Wkłady atramentowe/papier**
 - **Dysze** - małe dziurki w głowicy
