@@ -18,7 +18,7 @@ ___
 ## Projekt sieci
 - **Komponent sieci** - zawiera karty sieciowe i bezprzewodowe i urządzenia sieciowe np. przełączniki, bezprzewodowe punkty dostępu, routery, urządzenia wielofunkcyjne itp.
 - **Projekt sieci** - Wymaga znajomości sposobu, w jaki sieci są ze sobą połączone, aby wspierać potrzeby firmy
-- ___
+___
 - ## Podstawowa konfiguracja routera
 - **Krok 1** - Zaloguje się do router używając adresu, loginu oraz hasła z routera
 - **Krok 2** - Zmień domyślne hasło
