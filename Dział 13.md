@@ -124,24 +124,24 @@ ___
     - Wymaganie hasła przy przywróceniu danych
   - **Pamięć masowa**
     - Sprawdzaj poprawność kopii, aby zapewnić integralność danych
-- **Uprawnienia do plików i folderów**
+- **Uprawnienia do plików i folderów** <br></br>
 ![image](https://github.com/user-attachments/assets/f9a8c950-bc75-42d3-830e-1c2eb215162d)
 - **Szyfrowanie dysków twardych**
   - **Krok 1**
-    - **Włącz moduł TPM**
+    - **Włącz moduł TPM** <br></br>
     ![image](https://github.com/user-attachments/assets/20de52de-31a2-4280-90ab-d8708e4f001c)
   - **Krok 2**
-    - **Włącz funkcje BitLocker**
+    - **Włącz funkcje BitLocker** <br></br>
     ![image](https://github.com/user-attachments/assets/826a3cb9-26a1-494e-ad1a-532c41d0c2a5)
 ___
 ### Niszczenie danych
-- **Z dysku twardego**
+- **Z dysku twardego** <br></br>
 ![image](https://github.com/user-attachments/assets/d6f4255d-edcf-43cb-b771-fcf794351805)
 - **Recykling i niszczenie dysków twardych**
   - **Recykling**
     - **Kroki**
       - Wyczyszczenie dysku
-      - Formatowanie dysku
+      - Formatowanie dysku <br></br>
       ![image](https://github.com/user-attachments/assets/d2728bda-0297-4ac1-a20a-843f26561741)
   - **Niszczenie**
     - gwarantuje nie odzyskanie danych z dysku twardego
@@ -178,7 +178,7 @@ ___
 - **Zarządzanie kontami i ich obsługa**
   - **Śledź czasy logowania** - umożliwianie logowania tylko w wybranych porach
   - **Limit czasu bezczynności i blokada ekranu** - skonfiguruj aby wylogowywało użytkownika po danym czasie
-  - **Narzędzia konta użytkownika
+  - **Narzędzia konta użytkownika** <br></br>
 ![image](https://github.com/user-attachments/assets/6f243b71-cabd-4256-8daf-fbba12a163b0)
   - **Menedżer grup** - *Panelu sterowania > Narzędzia administracyjne > Zarządzanie komputerem > Użytkownicy i grupy lokalne*
 ___
