@@ -26,11 +26,11 @@ Technologia umożliwiająca tworzenie wirtualnych wersji zasobów komputerowych 
 - Technologia zmniejszająca liczbę serwerów potrzebnych do świadczenia usług, wykorzystując bezczynne zasoby
   - **Elementy**
     - **Hiperwizor** - Program zarządzający zasobami komputera i maszynami wirtualnymi, zapewniający dostęp do sprzętu fizycznego (procesor, pamięć, kontroler dysków, karta sieciowa)
-      - **TYP 1**
+      - **TYP 1** <br></br>
         ![image](https://github.com/user-attachments/assets/c4036987-5f13-4787-8c11-8a5addf15bd3)
-      - **TYP 2**
+      - **TYP 2** <br></br>
         ![image](https://github.com/user-attachments/assets/a5fe3a1a-d938-4ee6-841e-5efedc61cac5)
-      - **Windows**
+      - **Windows** <br></br>
         ![image](https://github.com/user-attachments/assets/d4aa8b7d-36d4-4ba1-880c-c23cf6ea9021)
         ![image](https://github.com/user-attachments/assets/2e33f2c3-5d99-4c1d-a5df-1d087717a136)
         ![image](https://github.com/user-attachments/assets/54a2aa78-1787-44b0-8790-261af0a56d10)
