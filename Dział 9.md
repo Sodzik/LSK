@@ -15,7 +15,7 @@ Model przechowywania danych i aplikacji na zdalnych serwerach udostępnianych pr
 - **Usługi** <br></br>
   ![image](https://github.com/user-attachments/assets/4e716121-9b04-4050-9dc9-3674dd1bc989)
 ### Wirtualizacja
-Technologia umożliwiająca tworzenie wirtualnych wersji zasobów komputerowych bp. serwery, systemy operacyjne lub pamięć, pozwala na efektywne zarządzanie
+Technologia umożliwiająca tworzenie wirtualnych wersji zasobów komputerowych np. serwery, systemy operacyjne lub pamięć, pozwala na efektywne zarządzanie
 ### Serwery dedykowane
 - **Tradycyjne wdrażanie serwerów** - polega na używaniu dedykowanych serwerów do dostarczania aplikacji i usług, co wymaga dużych zasobów
 - **Problemy**:
