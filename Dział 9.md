@@ -38,10 +38,10 @@ Technologia umożliwiająca tworzenie wirtualnych wersji zasobów komputerowych 
   - **Korzyści**
     - **Konsolidacja** - na przykład konsolidacja 100 serwerów fizycznych na 10 serwerów wirtualnych
 - **Zalety**
-  - **Lepsze wykorzystanie zasobów** - zmneijsza ilość serwerów
+  - **Lepsze wykorzystanie zasobów** - zmniejsza ilość serwerów
   - **Mniej zużywanej energii** - obniża koszty zasilania i chłodzenia
   - **Szybsze udostępnianie serwerów** - zdecydowanie szybsze jest stworzenie serwera wirtualnego
-  - **Ulepszone odzyskiwanie po awarii** - latwiejsze tworzenie kopii maszyny wirtualnej
+  - **Ulepszone odzyskiwanie po awarii** - łatwiejsze tworzenie kopii maszyny wirtualnej
   - **Wymagana jest mniejsza ilość miejsca** - serwery wirtualne nie zajmują fizycznego miejsca
   - **Redukcja kosztów** - zużywa mniej energii i potrzeba mniej sprzętu
   - **Maksymalizacja czasu pracy serwera**
