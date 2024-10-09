@@ -12,7 +12,7 @@ Model przechowywania danych i aplikacji na zdalnych serwerach udostępnianych pr
   - **Wirtualne przesyłanie strumieniwe aplikacji** - na przykład Microsft Office365 udostępnia programy takie jak Word czy Excel
   - **Poczta e-mail w chmurze** - Office365, Gmail, iCloud Mail, Outlook, Yahoo i Exchange Online
   - **Wirtualny pulpit** - na przykład QNAP
-- **Usługi**
+- **Usługi** <br></br>
   ![image](https://github.com/user-attachments/assets/4e716121-9b04-4050-9dc9-3674dd1bc989)
 ### Wirtualizacja
 Technologia umożliwiająca tworzenie wirtualnych wersji zasobów komputerowych bp. serwery, systemy operacyjne lub pamięć, pozwala na efektywne zarządzanie
