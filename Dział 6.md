@@ -19,14 +19,14 @@ ___
 - **Komponent sieci** - zawiera karty sieciowe i bezprzewodowe i urządzenia sieciowe np. przełączniki, bezprzewodowe punkty dostępu, routery, urządzenia wielofunkcyjne itp.
 - **Projekt sieci** - Wymaga znajomości sposobu, w jaki sieci są ze sobą połączone, aby wspierać potrzeby firmy
 ___
-- ## Podstawowa konfiguracja routera
+## Podstawowa konfiguracja routera
 - **Krok 1** - Zaloguje się do router używając adresu, loginu oraz hasła z routera
 - **Krok 2** - Zmień domyślne hasło
 - **Krok 3** - Zaloguj się za pomocą nowego hasła
 - **Krok 4** -  Zmień adresy DHCP IPv4
 - **Krok 5** - Odnów adres IP używając komendy **ipconfig /renew**
 - **Krok 6** - Zaloguj się na nowy adres IP
-  ___
+___
 ## Podstawowe ustawienia bezprzewodowe
 - **Krok 1** - Wyświetl ustawienia domyślne siecio WLAN
 - **Krok 2** - Zmień tryb sieci
