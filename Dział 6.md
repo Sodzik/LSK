@@ -20,7 +20,7 @@ ___
 - **Projekt sieci** - Wymaga znajomości sposobu, w jaki sieci są ze sobą połączone, aby wspierać potrzeby firmy
 ___
 ## Podstawowa konfiguracja routera
-- **Krok 1** - Zaloguje się do router używając adresu, loginu oraz hasła z routera
+- **Krok 1** - Zaloguj się do router używając adresu, loginu oraz hasła z routera
 - **Krok 2** - Zmień domyślne hasło
 - **Krok 3** - Zaloguj się za pomocą nowego hasła
 - **Krok 4** -  Zmień adresy DHCP IPv4
@@ -28,7 +28,7 @@ ___
 - **Krok 6** - Zaloguj się na nowy adres IP
 ___
 ## Podstawowe ustawienia bezprzewodowe
-- **Krok 1** - Wyświetl ustawienia domyślne siecio WLAN
+- **Krok 1** - Wyświetl ustawienia domyślne sieci WLAN
 - **Krok 2** - Zmień tryb sieci
 - **Krok 3** - Skonfiguruj SSID (nazwę sieci)
 - **Krok 4** - Skonfiguruj kanał
@@ -43,7 +43,7 @@ ___
 ___
 ## Ustawienia zapory
 - **UPnP (Universal Plug and Play)** to protokół służący do umożliwiania urządzeniom dynamiczne dodawanie się do sieci bez interwencji użytkownika lub konfiguracji
-- **DMZ (Strefa zdemilitaryzowana)** - sieć świadcząca usługi dla niezaufanej sieci, w tej strefie często są umieszczone serwery WWWW, e-mail, FTP
+- **DMZ (Strefa zdemilitaryzowana)** - sieć świadcząca usługi dla niezaufanej sieci, w tej strefie często są umieszczone serwery WWW, e-mail, FTP
 - **Przekierowanie portów** - zapory sprzętowe mogą służyć do blokowania portów TCP i UDP
 - **Filtrowanie adresów MAC** - określa dokładnie które adresy MAC mają pozwolenie na wysyłanie danych w Twojej sieci lub nie mogą wysyłać
 - **Biała i czarna lista** - decyduje jakie adresy IP są dozwolone lub odmawiane w sieci
