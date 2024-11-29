@@ -60,8 +60,8 @@ ___
 ___
 ## Karty rozszerzeń 
 - **Karta dźwiękowa** - umożliwia dźwięk
-- **Karta sieicowa** -  pozwala na połączenie sieciowa za pomoca kabla
-- **Karta eSATA** - doatkowy port SATA
+- **Karta sieciowa** -  pozwala na połączenie sieciowa za pomoca kabla
+- **Karta eSATA** - dodatkowy port SATA
 - **Karta graficzna** - umożliwia odtwarzanie wideo
 ___
 ## Interfejsy pamięci masowej
