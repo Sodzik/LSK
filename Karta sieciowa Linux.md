@@ -1,7 +1,7 @@
 # Konfiguracja karty sieciowej w Linuxie
 ___
 ## Edycja pliku konfiguracyjnego interfejsu
-**sudo nano /etc/network/interfaces** - do tego pliku wpisujemy poniższy tekst:
+**sudo nano /etc/network/interfaces** - do tego pliku wpisujemy poniższy tekst:<br>
   *plaintext <br>
   auto eth0 <br>
   iface eth0 inet static <br>
